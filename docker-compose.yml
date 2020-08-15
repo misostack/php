@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  app:
+    container_name: php74
+    volumes:
+    - ./app:/usr/src/app/
+    ports:
+    - 8015:80
