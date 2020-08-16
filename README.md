@@ -110,3 +110,39 @@ Zend OPcache
 - Shift + F9 : Start Debugging
 - Shift + F8 : Next
 - Shift + F7 : Step Into
+
+### Datatypes
+
+#### Primitive Datatype
+
+**1.Scalar Types**
+
+- boolean : TRUE | FALSE
+- integer : 8 bytes ~ fROM -2^31 TO 2^31 ( approximate 2 billions)
+- float : 8 bytes 
+- string
+
+**2.Compound**
+
+- array
+- object
+
+**3.Special**
+
+- resource
+- NULL
+
+> Resources are not the exact data type in PHP. 
+>Basically, these are used to store some function calls or references to external PHP resources. For example - a database call. It is an external resource.
+
+#### Operators
+
+- https://www.javatpoint.com/php-operators
+
+```php
+echo `ls`; //shell_exec('ls');
+```
+
+
+#### Strings
+
