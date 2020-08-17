@@ -146,3 +146,14 @@ echo `ls`; //shell_exec('ls');
 
 #### Strings
 
+#### Array
+
+- Indexed Array
+- Associated Array
+- Multidimensional Array
+- [Exercises](https://www.w3resource.com/java-exercises/array/index-test.php)
+
+
+##### Sorts
+
+- https://www.geeksforgeeks.org/sorting-algorithms/
