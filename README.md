@@ -157,3 +157,13 @@ echo `ls`; //shell_exec('ls');
 ##### Sorts
 
 - https://www.geeksforgeeks.org/sorting-algorithms/
+
+#### SublimeText3 Build System For PHP
+
+```
+{
+    "cmd": ["php", "$file"],
+    "file_regex": "php$",
+    "selector": "source.php"
+}
+```

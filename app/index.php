@@ -54,3 +54,4 @@ function xyz() {
     echo __FUNCTION__;
 }
 xyz();
+echo "\n";
