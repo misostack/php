@@ -8,6 +8,45 @@
 > - Portfolio Page
 > - Admin Page
 
+## Getting start
+
+### Day 001
+
+- [x] Install XAMPP on Windows
+- [x] Setup virtualhost
+- [x] phpinfo
+
+### Day 002
+
+**Requirements**
+
+> Use bootstrap 5 and php to create quotes pages, your quotes had been stored in text file and seperated by a newline character (\n)
+
+**Resources**
+
+- https://getbootstrap.com/docs/5.1/examples/masonry/
+
+
+### Day 003
+
+> Create an admin page that can create new quote and store in a text file
+
+### Day 004
+
+> Secure your admin page with simple http auth
+
+### Day 005
+
+> Store your quotes with JSON and more information: quote, author, image cap(file upload)
+
+### Day 006
+
+> Store your quotes in MYSQL, and store your image cap in cloud storage (Google Cloud Storage)
+
+### Day 007
+
+> Create more pages on your site: contribute page that allow anonymous user can add their quote
+
 ## Technical
 
 ### Install Docker
