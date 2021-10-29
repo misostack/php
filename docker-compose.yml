@@ -5,4 +5,4 @@ services:
     volumes:
     - ./app:/usr/src/app/
     ports:
-    - 8015:80cke
+    - 8015:80

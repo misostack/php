@@ -1,0 +1,3 @@
+<?php
+echo "PHP Code in text file";
+?><h1>HTML code in text file<h1>

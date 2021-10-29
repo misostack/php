@@ -25,6 +25,7 @@
 **Resources**
 
 - https://getbootstrap.com/docs/5.1/examples/masonry/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
 
 ### Day 003
