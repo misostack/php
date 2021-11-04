@@ -1,7 +1,8 @@
 <?php
 
-require_once './oop/oop-01.php';
+namespace PHPGuru\Headfirst\OOP;
+use function PHPGuru\Headfirst\OOP\oop_main as oop_main;
 
-if(function_exists('oop001_main')){
-    oop001_main();
-}
+include 'oop/oop.php';
+
+oop_main();
