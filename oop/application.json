@@ -1,0 +1,5 @@
+{
+  "DB_NAME": "headfirst-php",
+  "DB_HOST": "127.0.0.1",
+  "PAGE_SIZE": 100
+}
